@@ -97,3 +97,4 @@
 * git branch - d name_branch 
 
     *удаляет ветку с именем name_branch*
+    
