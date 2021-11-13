@@ -81,5 +81,19 @@
 
     
 ## Слияние веток и решение конфликтов
+
+* git merge name_branch
+
+    *Переносит в текущую ветку изменения из ветки name_branch*
+
+* В случае возникновения конфликтов при выполнении команды merge, требуется вручную выбрать вариант решения конфликта:*
+    * accept current changes
+    * accept incoming changes
+    * accept both changes
+    * compare changes
+
 ## Удаление веток
 
+* git branch - d name_branch 
+
+    *удаляет ветку с именем name_branch*
